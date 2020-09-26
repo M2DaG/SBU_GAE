@@ -1,4 +1,4 @@
-
+'''
 A multiple choice quiz program for Python Beginners.
 '''
 
